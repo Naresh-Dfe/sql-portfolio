@@ -19,6 +19,8 @@ I'm Naresh, a backend developer based in Chennai. I work mostly with SQL databas
 
 **[rest-api-node-postgres](rest-api-node-postgres)** — A small CRUD API for a task list, built with Express and PostgreSQL.
 
+**[data-migration](data-migration)** — Cleaning up a messy legacy flat table and moving it into a normalized schema.
+
 ## Stack
 
 PostgreSQL · MySQL · Node.js · Express · Python
