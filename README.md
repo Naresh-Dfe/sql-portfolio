@@ -21,6 +21,8 @@ I'm Naresh, a backend developer based in Chennai. I work mostly with SQL databas
 
 **[data-migration](data-migration)** — Cleaning up a messy legacy flat table and moving it into a normalized schema.
 
+**[sql-analytics](sql-analytics)** — Reporting queries with window functions: running totals, month-over-month growth, rankings, and moving averages.
+
 ## Stack
 
 PostgreSQL · MySQL · Node.js · Express · Python
