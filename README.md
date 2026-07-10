@@ -23,6 +23,8 @@ I'm Naresh, a backend developer based in Chennai. I work mostly with SQL databas
 
 **[sql-analytics](sql-analytics)** — Reporting queries with window functions: running totals, month-over-month growth, rankings, and moving averages.
 
+**[stored-procedures](stored-procedures)** — Database logic in PL/pgSQL: a transaction-safe order function, an audit trigger, and a reporting view.
+
 ## Stack
 
 PostgreSQL · MySQL · Node.js · Express · Python
