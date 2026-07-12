@@ -25,6 +25,8 @@ I'm Naresh, a backend developer based in Chennai. I work mostly with SQL databas
 
 **[stored-procedures](stored-procedures)** — Database logic in PL/pgSQL: a transaction-safe order function, an audit trigger, and a reporting view.
 
+**[recursive-queries](recursive-queries)** — Walking hierarchical data with recursive CTEs: org charts, subtrees, management chains, and category breadcrumbs.
+
 ## Stack
 
 PostgreSQL · MySQL · Node.js · Express · Python
