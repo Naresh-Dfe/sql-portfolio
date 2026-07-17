@@ -27,6 +27,8 @@ I'm Naresh, a backend developer based in Chennai. I work mostly with SQL databas
 
 **[recursive-queries](recursive-queries)** — Walking hierarchical data with recursive CTEs: org charts, subtrees, management chains, and category breadcrumbs.
 
+**[data-warehouse](data-warehouse)** — A star schema for sales reporting: fact and dimension tables, a generated date dimension, and analytical rollups.
+
 ## Stack
 
 PostgreSQL · MySQL · Node.js · Express · Python
