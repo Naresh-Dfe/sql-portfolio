@@ -29,6 +29,8 @@ I'm Naresh, a backend developer based in Chennai. I work mostly with SQL databas
 
 **[data-warehouse](data-warehouse)** — A star schema for sales reporting: fact and dimension tables, a generated date dimension, and analytical rollups.
 
+**[jsonb](jsonb)** — Storing and querying semi-structured data in PostgreSQL: containment queries, nested access, array unnesting, and GIN indexing.
+
 ## Stack
 
 PostgreSQL · MySQL · Node.js · Express · Python
