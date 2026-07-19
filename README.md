@@ -31,6 +31,8 @@ I'm Naresh, a backend developer based in Chennai. I work mostly with SQL databas
 
 **[jsonb](jsonb)** — Storing and querying semi-structured data in PostgreSQL: containment queries, nested access, array unnesting, and GIN indexing.
 
+**[full-text-search](full-text-search)** — Search inside PostgreSQL: weighted tsvector columns, ranked results, highlighted snippets, and a trigram fallback for typos.
+
 ## Stack
 
 PostgreSQL · MySQL · Node.js · Express · Python
