@@ -33,6 +33,8 @@ I'm Naresh, a backend developer based in Chennai. I work mostly with SQL databas
 
 **[full-text-search](full-text-search)** — Search inside PostgreSQL: weighted tsvector columns, ranked results, highlighted snippets, and a trigram fallback for typos.
 
+**[transactions-and-locking](transactions-and-locking)** — Concurrency bugs and their fixes: lost updates, overselling, deadlocks, row locking, and serializable isolation.
+
 ## Stack
 
 PostgreSQL · MySQL · Node.js · Express · Python
